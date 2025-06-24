@@ -43,6 +43,8 @@ The RAVDESS Dataset contains 24 professional actors (12 male, 12 female) vocaliz
 - Speech and Song modalities
 - High-quality audio recordings
 
+## Metrics
+
 | Metric           | Value      |
 | ---------------- | ---------- |
 | Accuracy         | **88.26%** |
